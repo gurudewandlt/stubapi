@@ -1,0 +1,10 @@
+{
+    "request" : {
+      "urlPath" : "/api/users/",
+      "method" : "ANY"
+    },
+    "response" : {
+      "status" : 200,
+      "body": "Hi"
+    }
+  }
